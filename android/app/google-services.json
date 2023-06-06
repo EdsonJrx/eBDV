@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "728506148926",
+    "project_id": "pythonauth-59c1b",
+    "storage_bucket": "pythonauth-59c1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728506148926:android:2da1e241f0cee89b20896f",
+        "android_client_info": {
+          "package_name": "com.bdv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728506148926-fhd195e237aj08pgrc55qlahakim7vkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bdv",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "728506148926-i7i2pvtk1jjeimt36qlcthc33t5k7bal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIKahbCFSWHX8I7vH7HaH84TehJ-gEapI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728506148926-i7i2pvtk1jjeimt36qlcthc33t5k7bal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
